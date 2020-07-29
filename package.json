@@ -1,0 +1,11 @@
+{
+	"name": "soilApp",
+	"version": "1.0.0",
+	"description": "A simple Node.js Project",
+	"main": "app.js",
+	"dependencies": {
+		"azure-iot-device": "^1.17.0",
+		"azure-iot-device-mqtt": "^1.15.0",
+		"i2c-seesaw-moisture-sensor": "^1.0.1"
+	}
+}
